@@ -20,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>
 <div class="container">
 	<div class="row">
-		<p>Please fill the following form to book a  ticket</p>
+		<p>Please fill the following form to book a ticket - new version</p>
 	</div>
 	<div class="row">
 	<form action="/welcome/book" method="POST">
